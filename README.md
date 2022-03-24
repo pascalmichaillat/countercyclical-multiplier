@@ -33,7 +33,7 @@ The results are produced with Matlab and Dynare code.
 The simulations of the New Keynesian model rely on a number of Dynare scripts, which are directly called by Matlab scripts. The Dynare scripts simulate the calibrated New Keynesian model in response to a given technology shock, with or without a public-employment response, for different underlying public-employment policies. The typical script is called `modelWxYZ.mod`, where
 
 * `W` = `NK` is there is no public-employment response; `W` = `G` if there is a public- employment response simultaneously to the technology shock
-* `x` = `m` if the technology shock is negative; `x` = `` if the technology shock is positive
+* `x` = `m` if the technology shock is negative; `x` = ` ` if the technology shock is positive
 * `Y` = `1`, `3`, `5`, `7`, `9`, `11`, `13`, `17`, `21` indicates the amplitude of the technology shock
 * `Z` = `G` if the underlying government policy is to keep public employment at a
 constant level over time; `Z` = `B` is the underlying government policy is to keep
