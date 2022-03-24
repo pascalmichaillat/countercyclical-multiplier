@@ -1,6 +1,6 @@
 # Code & Data for "A Theory of Countercyclical Government Multiplier"
 
-This repository contains the code and data associated with the article ["A Theory of Countercyclical Government Multiplier"](https://www.pascalmichaillat.org/2.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org), and published in the [American Economic Journal: Macroeconomics](https://doi.org/10.1257/mac.6.1.190) in May 2015.
+This repository contains the code and data associated with the article ["A Theory of Countercyclical Government Multiplier"](https://www.pascalmichaillat.org/2.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org), and published in the [American Economic Journal: Macroeconomics](https://doi.org/10.1257/mac.6.1.190) in January 2014.
 
 ## Data
 
